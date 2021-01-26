@@ -36,3 +36,4 @@ C:\Users\gretc\codecamp2020\csharp-practice\HelloASPdotNET\HelloASPdotNET\obj\De
 C:\Users\gretc\codecamp2020\csharp-practice\HelloASPdotNET\HelloASPdotNET\obj\Debug\netcoreapp3.1\HelloASPdotNET.csproj.CopyComplete
 C:\Users\gretc\codecamp2020\csharp-practice\HelloASPdotNET\HelloASPdotNET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\gretc\codecamp2020\csharp-practice\HelloASPdotNET\HelloASPdotNET\obj\Debug\netcoreapp3.1\Razor\Views\Hello\HelloForm.cshtml.g.cs
+C:\Users\gretc\codecamp2020\csharp-practice\HelloASPdotNET\HelloASPdotNET\obj\Debug\netcoreapp3.1\Razor\Views\Hello\Welcome.cshtml.g.cs
